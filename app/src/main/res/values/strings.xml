@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Foods</string>
+    <string name="slogan">This app is for those people who wants the fresh and delicious food without wasting time to wait</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tarcking_order">TarckingOrder</string>
+
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="title_activity_menu_list">MenuList</string>
+
+</resources>
